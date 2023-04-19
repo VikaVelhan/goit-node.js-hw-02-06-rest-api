@@ -1,4 +1,4 @@
-const contacts = require("../models/contacts");
+/* const contacts = require("../models/contacts");
 const { HttpError } = require("../helpers");
 
 const removeById = async (req, res) => {
@@ -12,4 +12,4 @@ const removeById = async (req, res) => {
   });
 };
 
-module.exports = removeById;
+module.exports = removeById; */

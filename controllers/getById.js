@@ -1,4 +1,4 @@
-const contacts = require("../models/contacts");
+/* const contacts = require("../models/contacts");
 const { HttpError } = require("../helpers");
 
 const getById = async (req, res) => {
@@ -10,4 +10,4 @@ const getById = async (req, res) => {
   res.json(result);
 };
 
-module.exports = getById;
+module.exports = getById; */

@@ -1,4 +1,4 @@
-const contacts = require("../models/contacts");
+/* const contacts = require("../models/contacts");
 
 const add = async (req, res) => {
   const result = await contacts.addContact(req.body);
@@ -7,4 +7,4 @@ const add = async (req, res) => {
   res.json({ message: "template message" });
 };
 
-module.exports = add;
+module.exports = add; */
